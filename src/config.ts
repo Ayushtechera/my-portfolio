@@ -1,190 +1,153 @@
 export const config = {
     developer: {
-        name: "Redoyanul",
-        fullName: "Redoyanul Haque",
+        name: "Ayush",
+        fullName: "Ayush Kashyap",
         title: "AI & Full-Stack Developer",
-        description: "AI & Full-Stack Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
+        description: "AI & Full-Stack Developer transforming complex problems into intelligent solutions. I build production-grade systems where LLMs, autonomous agents, and modern web technologies converge. Whether it's orchestrating multi-agent workflows with LangGraph, architecting retrieval systems that think, or integrating MCP servers for seamless tool interaction—I create systems that don't just work, they reason. Obsessed with turning cutting-edge AI into scalable, real-world products."
     },
     social: {
-        github: "red1-for-hek",
-        email: "redoyanul1234@gmail.com",
-        location: "Bangladesh"
+        github: "Ayushtechera",
+        email: "ayushkashyap0109@gmail.com",
+        location: "India"
     },
     about: {
         title: "About Me",
-        description: "I am a self-taught AI & Full-Stack Developer from Bangladesh. I build intelligent systems, chatbots, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. I have a competitive programming mindset and a deep passion for automation. Code is poetry, AI is the canvas."
+        description: "I'm an AI & Full-Stack Developer from Noida, India. I build production-grade intelligent systems where LLMs, autonomous agents, and modern web technologies converge. My toolkit: LangChain, LangGraph, MCP servers, RAG pipelines, and Guardrails for safe, bounded AI systems that reason reliably. From orchestrating multi-agent workflows to architecting retrieval systems with safety constraints, I transform complex AI problems into scalable, real-world solutions. Deep passion for automation, system design, and pushing the boundaries of what AI can do—responsibly. Code is craft, AI is the medium—building the future, one intelligent system at a time."
     },
     experiences: [
         {
             position: "Learning Something New",
             company: "Self-Development",
-            period: "2025 - Present",
-            location: "Bangladesh",
+            period: "2024 - Present",
+            location: "India",
             description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
             responsibilities: [
                 "Researching cutting-edge AI and ML technologies",
                 "Experimenting with new frameworks and tools",
-                "Contributing to open-source projects",
                 "Building innovative personal projects"
             ],
-            technologies: ["Research", "Innovation", "Open Source", "New Tech"]
+            technologies: ["Research", "Innovation", "New Tech"]
         },
         {
-            position: "AI Engineer",
-            company: "Freelance & Projects",
-            period: "2025",
-            location: "Bangladesh",
-            description: "Developing intelligent AI systems, chatbots, and machine learning solutions. Building next-gen conversational AI agents and JARVIS-like personal assistants.",
+            position: "AI & Full-Stack Engineer",
+            company: "Self - Directed",
+            period: "2024 - Present",
+            location: "India",
+            description: "Building production-grade intelligent systems combining LLMs, autonomous agents, and full-stack development. Mastering RAG pipelines, multi-agent orchestration, and end-to-end AI applications.",
             responsibilities: [
-                "Building AI-powered chatbots and conversational agents",
-                "Developing machine learning models with TensorFlow and PyTorch",
-                "Working with LLMs and transformer architectures",
-                "Creating autonomous AI systems and automation tools"
+                "Architected multi-agent systems with LangGraph integrating autonomous tools and MCP servers",
+                "Built production RAG systems with semantic chunking, hybrid search, and Guardrails for safe AI",
+                "Fine-tuned LLaMA models with LoRA/QLoRA competing with frontier LLMs",
+                "Designed end-to-end intelligent systems: LLM inference → Agent reasoning → FastAPI backend → React frontend",
+                "Deployed production-grade applications with Python FastAPI, React, and autonomous agent workflows"
             ],
-            technologies: ["Python", "TensorFlow", "PyTorch", "LLMs", "NLP", "AI Agents"]
+            technologies: ["LangChain", "LangGraph", "RAG", "MCP", "FastAPI", "React", "Python", "Guardrails", "Fine-tuning", "LLMs"]
         },
         {
             position: "Full-Stack Developer",
-            company: "Freelance & Projects",
-            period: "2024",
-            location: "Bangladesh",
-            description: "Built complete web applications from frontend to backend. Developed responsive UIs, RESTful APIs, and database solutions for various clients and projects.",
+            company: "Self - Projects",
+            period: "2025",
+            location: "India",
+            description: "Built end-to-end web applications using modern Python and JavaScript stack. Integrated AI capabilities into web products.",
             responsibilities: [
-                "Developing full-stack web applications using React and Node.js",
-                "Building RESTful APIs and integrating databases",
-                "Creating responsive and interactive user interfaces",
-                "Deploying and maintaining web applications"
+                "Developed full-stack applications with FastAPI backend and React frontend",
+                "Implemented responsive UI with HTML, CSS, and React components",
+                "Built APIs with Python for intelligent system integration",
+                "Deployed with proper error handling and optimization"
             ],
-            technologies: ["React", "Node.js", "MongoDB", "Express", "Next.js", "TypeScript"]
+            technologies: ["FastAPI", "React", "Python", "HTML", "CSS", "JavaScript", "LLM", "MCP", "HITL","Guardrails","LangGraph"]
         },
         {
             position: "Python Developer",
             company: "Self-Taught & Projects",
-            period: "2023",
-            location: "Bangladesh",
+            period: "2025",
+            location: "India",
             description: "Dove deep into Python programming, building automation scripts, bots, and mastering the fundamentals of software development and problem-solving.",
             responsibilities: [
                 "Learning Python programming and core concepts",
-                "Building automation scripts and Discord bots",
+                "Building automation scripts and Scalable AI systems",
                 "Exploring data structures and algorithms",
-                "Participating in competitive programming"
+                "System Desing(HLD)"
             ],
-            technologies: ["Python", "Automation", "Scripting", "Discord.py", "Problem Solving"]
+            technologies: ["Python", "Automation", "Scripting", "Problem Solving"]
         },
-        {
-            position: "Graphic Designer",
-            company: "Freelance",
-            period: "2022",
-            location: "Bangladesh",
-            description: "Started my creative journey as a graphic designer, creating logos, banners, and visual content. This sparked my passion for technology and digital creation.",
-            responsibilities: [
-                "Designing logos and brand identity materials",
-                "Creating social media graphics and banners",
-                "Working with clients on creative projects",
-                "Learning design principles and visual aesthetics"
-            ],
-            technologies: ["Photoshop", "Illustrator", "Canva", "Figma", "Visual Design"]
-        },
-        {
-            position: "Microsoft Office",
-            company: "Begin Learning",
-            period: "2021",
-            location: "Bangladesh",
-            description: "Started my journey into the digital world by learning Microsoft Office tools. This foundational step introduced me to computers and sparked my curiosity for technology.",
-            responsibilities: [
-                "Learning Microsoft Word, Excel, and PowerPoint",
-                "Creating documents and presentations",
-                "Understanding basic computer operations",
-                "Building foundational digital skills"
-            ],
-            technologies: ["MS Word", "MS Excel", "MS PowerPoint", "Computer Basics"]
-        }
     ],
     projects: [
         {
             id: 1,
-            title: "Drishti",
-            category: "AI / LLM",
-            technologies: "Python, PyTorch, Transformers, FastAPI, React, MongoDB",
-            image: "/images/Drishti.png",
-            description: "Bangladesh's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali.",
-            link: "https://huggingface.co/red1-for-hek/drishti-ilm-x1"
+            title: "TripCrew-AI",
+            category: "AI / Agentic AI",
+            technologies:"Python, LangGraph, LangChain, MCP, Groq, FastAPI, PostgreSQL, Tavily, AviationStack, Docker, HTML, CSS, JavaScript",
+            image: "/images/tripcrewai.png",
+            description: "An intelligent multi-agent AI travel planner powered by LangGraph and MCP. Features autonomous agentic workflows, real-time travel data, human-in-the-loop interactions, guardrails, and personalized itinerary generation.",
+            link: "https://tripcrew-ai-eu9c.onrender.com/"
         },
         {
             id: 2,
-            title: "VoteChain",
-            category: "Blockchain",
-            technologies: "Solidity, Web3.js, React, Ethereum, IPFS, MetaMask, Node.js",
-            image: "/images/VoteChain.png",
-            description: "A decentralized election system built on blockchain technology ensuring transparent, tamper-proof, and verifiable voting. Features smart contracts for vote integrity and real-time result tracking.",
-            link: "https://github.com/red1-for-hek/smart-election-by-blockchain"
+            title: "PersonaX",
+            category: "AI Agent / Personal Assistant",
+            technologies: "LangGraph, LangChain, FastAPI, Gradio, LLM APIs, Vector DB",
+            image: "/images/personax.png",
+            description: "An intelligent AI agent that creates your digital career twin. Upload your resume and projects—the AI learns your expertise and automatically represents you to recruiters. Answers technical questions, pitches your skills, negotiates opportunities, and manages your career interactions autonomously",
+            link: "https://personax-5e8u.onrender.com/"
         },
         {
             id: 4,
-            title: "Flood Spaces 2.0",
-            category: "AI / ML",
-            technologies: "Python, TensorFlow, Pandas, React, FastAPI, GIS",
-            image: "/images/FloodSpaces.png",
-            description: "Predicts flood risks across Bangladesh up to one month in advance and sends early alerts to help people prepare.",
-            link: "https://github.com/red1-for-hek/Flood-Spaces-2.0"
+            title: "Deep-Research-Agents",
+            category: "AI / Agentic AI",
+            technologies: "Python, OpenAI Agents SDK, Gemini, Gradio, Tavily, AsyncOpenAI",
+            image: "/images/deepresearchagent.png",
+            description: "An AI-powered deep research agent that autonomously searches the web, gathers information from multiple sources, analyzes the findings, and generates comprehensive research reports.",
+            link: "https://deep-research-app-mqbm.onrender.com/"
         },
         {
             id: 5,
-            title: "Phoenix 3.0",
-            category: "AI Assistant",
-            technologies: "Python, Speech Recognition, PyAutoGUI, OpenAI API, Tkinter",
-            image: "/images/Phoenix3.0.png",
-            description: "A JARVIS-inspired personal AI desktop assistant. Controls system functions, manages tasks, answers queries, automates workflows, and provides voice-activated computing experience.",
-            link: "https://github.com/red1-for-hek/phoenix3.0"
+            title: "DocRag",
+            category: "AI / RAG",
+            technologies: "Python, LangChain, LangGraph, Streamlit, Hugging Face, ChromaDB, Wikipedia",
+            image: "/images/docrag.png",
+            description: "An intelligent document-based RAG system that retrieves relevant information from documents and external sources, then uses an agentic workflow to generate grounded and context-aware answers.",
+            link: "https://docrag-qhc25f5zfdmndiappvyxhmq.streamlit.app/"
         },
         {
             id: 6,
-            title: "RedxChess",
-            category: "AI / Game Engine",
-            technologies: "Python, C++, Neural Networks, Bitboards, UCI Protocol",
-            image: "/images/RedxChess.png",
-            description: "A high-performance chess engine rated 3640 ELO. Features advanced search algorithms, neural network evaluation, and optimized bitboard representation for lightning-fast move generation.",
-            link: "/play"
+            title: "NetworkSecurity",
+            category: "Machine Learning / MLOps",
+            technologies: "Python, Scikit-learn, MongoDB, MLflow, DagsHub, FastAPI, Docker, AWS S3, GitHub Actions",
+            image: "/images/networksecurity.png",
+            description: "An end-to-end machine learning system for detecting phishing websites, featuring data ingestion, validation, model training, experiment tracking, and production deployment.",
+            link: "https://github.com/Ayushtechera/Networksecurity"
         },
         {
             id: 7,
-            title: "Prodesk",
-            category: "E-commerce",
-            technologies: "React, Node.js, MongoDB, Express, Stripe",
-            image: "/images/Prodesk.png",
-            description: "A complete e-commerce platform with secure checkout and smooth product browsing.",
-            link: "https://github.com/red1-for-hek/prodesk"
+            title: "AI Bargain System",
+            category:"AI / Agentic AI",
+            technologies: "Python, OpenAI Agents SDK, RAG, Neural Networks, Multi-Agent Systems, Pushover, Modal",
+            image: "/images/aibargainsystem.png",
+            description: "An autonomous multi-agent bargaining system that evaluates product prices, researches market information, and determines whether a deal is worth pursuing before notifying the user.",
+            link: "https://github.com/Ayushtechera/Collaborative-Agentic-Workflow"
         },
-        {
-            id: 8,
-            title: "HekTools",
-            category: "Security / Android",
-            technologies: "Kotlin, Android SDK, Firebase, Python, Encryption",
-            image: "/images/hektools.png",
-            description: "An advanced Android monitoring and security research tool. Features remote device management, activity logging, and encrypted data transmission for security testing purposes.",
-            link: ""
-        }
     ],
     contact: {
-        email: "redoyanul1234@gmail.com",
-        github: "https://github.com/red1-for-hek",
-        linkedin: "https://linkedin.com/in/red1-for-hek",
-        twitter: "https://x.com/red_1_ul",
-        facebook: "https://www.facebook.com/redoyanulhaque.hacker.official",
-        instagram: "https://www.instagram.com/red_1_ul"
+        email: "ayushkashyap0109@gmail.com",
+        github: "https://github.com/Ayushtechera",
+        linkedin: "https://www.linkedin.com/in/ayush-kashyap-593b9b28a/",
+        twitter: "",
+        facebook: "",
+        instagram: ""
     },
     skills: {
         develop: {
             title: "AI DEVELOPER",
-            description: "Building intelligent systems & AI solutions",
-            details: "Developing AI agents, chatbots, and machine learning models using Python, TensorFlow, and PyTorch. Specializing in LLMs, NLP, deep learning, and autonomous systems.",
-            tools: ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "LLMs", "NLP", "Deep Learning", "Chatbots", "AI Agents"]
+            description: "Building production-grade intelligent systems & autonomous agents",
+            details: "Developing AI agents, chatbots, and machine learning models using Python, PyTorch. Specializing in LLMs, NLP, deep learning, and autonomous systems.",
+            tools: ["Python", "MCP", "PyTorch", "Scikit-learn", "LLMs", "NLP", "Deep Learning", "Chatbots", "AI Agents","Autonomous Agents","Multi-Agent Reliable Systems"]
         },
         design: {
-            title: "FULL-STACK",
-            description: "Modern web development & scalable applications",
-            details: "Building responsive and performant web applications using React, Next.js, Node.js, and databases. Creating seamless user experiences with modern UI/UX principles.",
-            tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
+            title: "FULL-STACK AI DEVELOPER",
+            description: "End-to-end intelligent systems from backend to frontend",
+            details: "Building complete AI-powered applications combining intelligent backends with modern frontends. Expert in FastAPI, React, and integrating cutting-edge AI into production systems. Creating seamless experiences where AI reasoning meets beautiful UX.",
+            tools: ["FastAPI", "React", "Node.js", "Python", "MongoDB", "PostgreSQL", "Docker", "REST APIs", "Deployment", "System Design", "Integration"]
         }
     }
 };
