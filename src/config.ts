@@ -132,7 +132,7 @@ export const config = {
         email: "ayushkashyap0109@gmail.com",
         github: "https://github.com/Ayushtechera",
         linkedin: "https://www.linkedin.com/in/ayush-kashyap-593b9b28a/",
-        twitter: "",
+        twitter: "https://x.com/EncryptAyush",
         facebook: "",
         instagram: ""
     },
