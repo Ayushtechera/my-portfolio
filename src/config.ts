@@ -98,7 +98,7 @@ export const config = {
             technologies: "Python, OpenAI Agents SDK, Gemini, Gradio, Tavily, AsyncOpenAI",
             image: "/images/deepresearchagent.png",
             description: "An AI-powered deep research agent that autonomously searches the web, gathers information from multiple sources, analyzes the findings, and generates comprehensive research reports.",
-            link: "https://deep-research-app-mqbm.onrender.com/"
+            link: "https://deep-research-app-crxi.onrender.com/"
         },
         {
             id: 5,
