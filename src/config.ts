@@ -127,6 +127,24 @@ export const config = {
             description: "An autonomous multi-agent bargaining system that evaluates product prices, researches market information, and determines whether a deal is worth pursuing before notifying the user.",
             link: "https://github.com/Ayushtechera/Collaborative-Agentic-Workflow"
         },
+        {
+            id: 8,
+            title: "ITAssist AI",
+            category: "AI / Agentic RAG",
+            technologies: "Python, LangGraph, LangChain, Pinecone, Groq, Tavily, FastAPI, SQLite, Docker",
+            image: "/images/itassistAI.png",
+            description: "An intelligent Agentic RAG copilot for enterprise IT support, featuring private knowledge retrieval, evidence grading, query rewriting, and web search fallback to deliver grounded, context-aware responses.",
+            link: "https://intelligent-it-support-agentic-rag.onrender.com"
+        },
+        {
+            id: 9,
+            title: "Coming Soon",
+            category: "In Development",
+            technologies: "AI Agents, RAG, LangGraph",
+            image: "/images/coming-soon.png",
+            description: "Something exciting is in the works. Building a new AI-powered project. Stay tuned for updates!",
+            link: "#"
+        },
     ],
     contact: {
         email: "ayushkashyap0109@gmail.com",
